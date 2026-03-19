@@ -1,12 +1,1 @@
 # Hey-Master
-This is my first update for Pull Shark achievement!
-
-## Pull Shark Achievement Progress
-- ✅ First Pull Request merged
-- 🔄 Working on second Pull Request
-- 🎯 Target: Earn the 🦈 badge
-
-
-Co-authored-by: Master <sabbirit.dm@gmail.com>
-
-pull requests for new contributors
