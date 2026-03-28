@@ -25,7 +25,7 @@ def create_project_structure(repo_path):
 def main():
     username = "samz200p"
     repo_name = "New" 
-    token = "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"
+    token = input("Enter your GitHub PAT: ")
     
     repo_path = "." # আপনার পিসিতে যে ফোল্ডারে 'New' রেপোটি আছে
 
